@@ -7,7 +7,7 @@ In priority:
 ------
 * English
 * Turkish
-* Ukrainian
+* ~~Ukrainian~~
 * Polish
 * Deutsch
 * French
