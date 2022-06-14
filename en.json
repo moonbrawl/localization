@@ -1,0 +1,73 @@
+{
+	"thislanguage": ["English", "English"],
+	"lang": "Language",
+	
+	"free": "MoonBrawl - free server! There are no paid features here.."
+	"link": "Hi, it looks like you have a lot of cups and you <c7>didn't link your account!</c>\n\nBy linking an account to Telegram bot, you will protect yourself from hacking, you can transfer your account in case of loss of your account.\n\n<c2>We strongly recommend that you link your account to the bot:</c> ",
+	"linkprocess": "To confirm the linking of this account to the Telegram account with the nickname {}, and enter this code: {}",
+	"tg": "Telegram",
+	"ds": "Discord",
+	"selfdata": "Your token: {}\n\nWhy is this data needed?: This tokens are needed for linking your account to Telegram bot\n<c2>DO NOT GIVE IT TO ANYONE!</c>",
+	
+	"help": "/help - this list\n/theme <id> - change theme\n/lang <cc> - change language",
+	"availablelang": "List of avaible languages:\n\n",
+	"koshka_negr": "Unknown command",
+	"theme": "Not specified ID theme! Theme set by command /theme [id]! List ID:",
+	"rejoin": "Success! Rejoin in MB.",
+	"report": ["Report sent!", "Failed to send report"],
+	
+	"promo": ["Did you know that we have a Telegram-channel?", "Here you can find the latest news about the server!", "Follow the link"],
+	
+	"gift": ["Gift", "Gifts"],
+	
+	"second": ["Second", "Seconds", "Seconds"],
+	"minute": ["Minute", "Minutes", "Minutes"],
+	"hour": ["Hour", "Hours", "Hours"],
+	"day": ["Day", "Days", "Days"],
+	
+	"state": ["Disable", "Enable"]
+	"staterizator0": ["Disabled", "Disabled", "Disabled", "Disabled"],  
+	"staterizator1": ["Enabled", "Enabled", "Enabled", "Enabled"],  
+	
+	"gems": "Gems",
+	"coins": "Coins",
+	"starpoint": "Starpoints",
+	
+	"smallbox": ["Small box", "Small boxes", "Small boxes"],
+	"box": ["Big box", "Big boxes", "Big boxes"],
+	"megabox": ["Megabox", "Megaboxes", "Megaboxes"],
+	
+	
+	
+	"missing": "Deleted account",
+	"update": "An update is out! Download the update on the website: ",
+	"account": "Your account was not found in the database. Please clear MoonBrawl data in settings or reinstall MoonBrawl.",
+	"whitelist": "Your IP is not in Whitelist! Disabled Whitelist via @moonbrawlbot",
+	"banned": "😕 You have been banned in MB!\nTime to unban: {}.\nReason: {}",
+        "corrupted": "Seems your account is corrupted.",
+	
+	"bughunter_about": "Find bugs in MB and get rewarded for it in the form of megaboxes, gems, etc.!",
+	"bughunter_catch": "You have caught a bug (ID: {}). Submit it via /hunter <ID>\nAnd get a random reward!",
+	"bughunter_available": "You have received a reward {} {} for a bug (ID: {}), take it!",
+	
+	
+	
+	"_comment": "No need to translate what is below.",
+	
+	"yn": "(Y/n) > ",
+	"l": "\n"
+	"debug": "",
+	"hi": "Welcome to MBCLI.\n",
+	"bye": "Bye.\n",
+	"flush": "",
+	"terminate": "Terminate? ",
+	"ebalo": ["tcp", "udp"],
+	"db_upala": "Timeout! Database not respond within {}ms.",
+	"corepizdit": "Core napizdel (#{}:#{})",
+	"ionaebal": "IO Error",
+	"zaebal": "Potential data loss detected. Try to go naxui or restart moondb",
+	"sectorcorrupted": "Sector corrupted (#{}, B{}). fill with zeros?",
+	"blya": "Unpaired bits",
+	"da_ne_nado_mne_tyt": "",
+	"sychki": "Технологии пидерастов блять заебали уже со своими технологиями записи битов по головке жёсткого диска. Лучше по головке члена запиши себе блять нолик"
+}
